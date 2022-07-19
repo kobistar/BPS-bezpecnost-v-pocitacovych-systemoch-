@@ -1,0 +1,10 @@
+Anicka:ahoj1
+Boris:ahoj2
+Patka:ahoj3
+Adam:ahoj4
+Janik:ahoj5
+Jakub:ahoj6
+Zuzka:ahoj7
+Lucka:ahoj8
+Dominik:ahoj9
+Izabela:ahoj10
